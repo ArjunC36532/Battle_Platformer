@@ -10,10 +10,6 @@
   <strong>An exhilarating platformer where you teleport through space, battling enemies in your high-tech space-suit! 🌌👾</strong>
 </p>
 
-<p align="center">
-  <img src="images/gameplay.png" alt="Gameplay Screenshot">
-</p>
-
 ## Features 🎮
 
 - **Teleportation Mastery:** Use the WASD keys to swiftly teleport through levels.
