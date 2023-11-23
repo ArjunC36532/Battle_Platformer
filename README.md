@@ -1,7 +1,6 @@
 <!-- Galactic Teleport -->
 
 <p align="center">
-  <img width="200" height="200" src="images/logo.png" alt="🚀 Galactic Teleport Logo">
 </p>
 
 <h1 align="center">Galactic Teleport</h1>
