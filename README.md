@@ -21,18 +21,13 @@
     ```bash
     git clone https://github.com/your-username/galactic-teleport.git
     ```
-
-2. **Run the Game:**
-    ```bash
-    cd galactic-teleport
-    open index.html
     ```
 
-3. **Controls:**
+2. **Controls:**
    - Use `W`, `A`, `S`, `D` to teleport.
    - Click the left mouse button to fire.
 
-4. **Objective:**
+3. **Objective:**
    - Eliminate all enemies on each level to emerge victorious.
 
 ## Demo ▶️
